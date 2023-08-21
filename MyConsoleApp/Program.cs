@@ -11,7 +11,11 @@ namespace Giraffe
         static void Main(string[] args) // this is a method/function.
         //Anything within the main function will be executes by the computer
         {
-            Console.WriteLine("Hello World"); // must end each line in C# with ";"
+            Console.WriteLine("   /|");
+            Console.WriteLine("  / |");
+            Console.WriteLine(" /  |");
+            Console.WriteLine("/___|");
+
             Console.ReadLine(); // allows console to stay
         }
     }
